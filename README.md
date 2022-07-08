@@ -59,7 +59,8 @@ Blog link: working on it
 - Works on both x64/x86
 
 ## Update history
-- NONE
+- Restructure Code - 20210903
+- Remove unnecessary code in NativeFunctions.cs - 20210906
 
 ## Reference link:
 	1. https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createfilea
